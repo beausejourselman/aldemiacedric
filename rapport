@@ -1,0 +1,18 @@
+# aldemiacedric
+prérquis 
+
+
+Parmis les différents problèmes que j'ai rencontré :
+
+action faites sans exporter le fichier excel
+
+		- Lorsque je faisais cy.visit j'arrivais sur la page en tant que « utilisateur connecté »
+    - Par compte en tant qu utilisateur connecter(inscription fais au préalable
+    - Lorsque je passe la 2eme commande et que j'arrive au paiement  il fautnque je mereconnecte à nouveau
+      également  ladresse (ville, code postale) de facturation elle se cumul 
+
+action faites une fois le fichier excel exporte
+
+		- Lorsque j'ai exporter le fichier excel il a fallu que je sélectionne l'encodage
+		- Pour jdd.json il met t impossible de code navigateur dans paramètre car dans 			cypress on l'écris au début du script
+		 
